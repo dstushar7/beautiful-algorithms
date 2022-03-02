@@ -1,1 +1,1 @@
-# beautiful-algorithms
+# Here I will store all the neccessary codes to study the algorithms
